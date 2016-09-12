@@ -4,10 +4,10 @@ If you want to make the repo accessible to the public for collaboration.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You might make a change that you want public.
 
-Describe the differences between forks, clones, and branches.  When would you
-use one instead of another?
-
-    Fill in your answer here
+Describe the differences between forks, clones, and branches.  When would you use one instead of another?
+forks: when you want to clone someone elses repository w/out permisson
+clones: when you want to clone someone elses repository w/ permisson
+branches: when you want to try something
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
